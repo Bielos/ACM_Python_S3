@@ -22,7 +22,7 @@ Para poder hacer un **PR** :
 **Nota :Abre una terminal**
 
 2. Clona a tu escritorio `git clone https://github.com/JoaoRacedo/ACM_Python_S3.git`
-3. Checkout a branch `git checkout -b feature/branch-name`
+3. Checkout a branch `git checkout -b branch-name`
 4. Codifica!
 5. ¿Quien són?
   - Agrega en CONTRIBUTORS.md file su grupo y los integrantes ( pueden agregar información de cada uno , semestre, gustos, etc)
