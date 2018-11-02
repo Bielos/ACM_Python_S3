@@ -8,8 +8,8 @@ Como una guia para esta actividad pueden ir a los githubs de las anteriores sesi
 
 ### Prerequisitos
 
-* Tener instalado Anaconda con Spyder, o python >=3 junto con todas las librerias usadas en el repositori **ACM_IA_Python**
-* recomendamos instalar git. https://git-scm.com
+* Tener instalado Anaconda con Spyder, o python >=3 junto con todas las librerias usadas en el repositorio **ACM_IA_Python**
+* recomendamos instalar git. En el siguiente enlace encontraras como hacerlo https://git-scm.com
 
 ### Actividad propuesta
 
