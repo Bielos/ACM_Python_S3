@@ -6,6 +6,11 @@ Como una guia para esta actividad pueden ir a los githubs de las anteriores sesi
 * https://github.com/JoaoRacedo/ACM_Python_S2
 
 
+### Prerequisitos
+
+* Tener instalado Anaconda con Spyder, o python >=3 junto con todas las librerias usadas en el repositori **ACM_IA_Python**
+* recomendamos instalar git. https://git-scm.com
+
 ### Actividad propuesta
 
 Descripción de la actividad aca
@@ -13,6 +18,7 @@ Descripción de la actividad aca
 Para mas información sobre el dataset mirar **References**
 
 ### Como entregar tu trabajo ( y de paso aprendemos unas cosas de GitHub)
+
 
 Cuando terminen su actividad queremos que suban sus scripts para que todos podamos compartir y aprender.
 La forma en como haremos esto es con **Pull Request (PR)**.
