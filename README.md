@@ -9,6 +9,7 @@ Como una guia para esta actividad pueden ir a los githubs de las anteriores sesi
 ### Actividad propuesta
 
 Descripción de la actividad aca
+Para mas información sobre el dataset mirar **References**
 
 ### Como entregar tu trabajo ( y de paso aprendemos unas cosas de GitHub)
 
