@@ -1,6 +1,6 @@
 # ACM Python S3
 
-Como una guia para esta actividad pueden ir a los githubs de las anteriores sesiones realizadas:
+Como una guía para esta actividad pueden ir a los githubs de las anteriores sesiones realizadas:
 
 * https://github.com/JoaoRacedo/ACM_IA_Python
 * https://github.com/JoaoRacedo/ACM_Python_S2
@@ -8,12 +8,12 @@ Como una guia para esta actividad pueden ir a los githubs de las anteriores sesi
 
 ### Prerequisitos
 
-* Tener instalado Anaconda con Spyder, o python >=3 junto con todas las librerias usadas en el repositorio **ACM_IA_Python**
+* Tener instalado Anaconda con Spyder, o python >=3 junto con todas las librerías usadas en el repositorio **ACM_IA_Python**
 * Recomendamos instalar git. En el siguiente enlace encontraras como hacerlo https://git-scm.com
 
 ### Actividad propuesta
 
-Descripción de la actividad aca
+Es un challenge abierto, puedes aplicar cualquier tipo de análisis y/o visualización de datos.
 
 Para mas información sobre el dataset mirar **References**
 
@@ -25,16 +25,16 @@ La forma en como haremos esto es con **Pull Request (PR)**.
 Para poder hacer un **PR** :
 
 1. Fork este repositorio
-  - Click el botón Fork que esta en la parte superior derecha de esta pagina, despues ve a tu perfil.
+  - Click el botón Fork que está en la parte superior derecha de esta página, después ve a tu perfil.
   
-**Nota :Abre una terminal**
+**Nota: Abre una terminal**
 
 2. Clona a tu escritorio `git clone https://github.com/JoaoRacedo/ACM_Python_S3.git`
 3. Checkout a branch `git checkout -b branch-name`
 4. Codifica!
-5. ¿Quienes són?
-  - Agrega en CONTRIBUTORS.md file su grupo y los integrantes ( pueden agregar información de cada uno , semestre, gustos, etc)
-6. Una vez termines de codificar, sube tus cambios con un Commit y push 
+5. ¿Quiénes son?
+  - Agrega en CONTRIBUTORS.md file su grupo y los integrantes (pueden agregar información de cada uno, semestre, gustos, etc).
+6. Una vez termines de codificar, sube tus cambios con un Commit y push.
    - `git add .`
    - `git commit -m "commit message"`
    - `git push origin branch-name`
