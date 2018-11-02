@@ -32,7 +32,7 @@ Para poder hacer un **PR** :
    - `git push origin branch-name`
 7. Crea un nuevo **PR** desde tu fork
   - Click en New Pull Request que se encuentra en la parte de arriba de tu repositorio (en GitHub).
-8. Espera a que tu **PR** sea revizado.
+8. Espera a que tu **PR** sea revisado.
 
 ### References
 
