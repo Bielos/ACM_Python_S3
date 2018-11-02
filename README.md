@@ -31,7 +31,7 @@ Para poder hacer un **PR** :
 
 2. Clona a tu escritorio `git clone https://github.com/JoaoRacedo/ACM_Python_S3.git`
 3. Checkout a branch `git checkout -b branch-name`
-4. Codifica!
+4. ¡Codifica!
 5. ¿Quiénes son?
   - Agrega en CONTRIBUTORS.md file su grupo y los integrantes (pueden agregar información de cada uno, semestre, gustos, etc).
 6. Una vez termines de codificar, sube tus cambios con un Commit y push.
